@@ -13,6 +13,7 @@ background-repeat: no-repeat;
 }
 img{
     width: 100%;
+    aspect-ratio: 3/3;
 }
 a{
     background-image: linear-gradient(to right,#F2C94C,#F2994A );
