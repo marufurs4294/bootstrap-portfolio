@@ -19,3 +19,27 @@ a{
     color: black;
     font-weight: bold;
 }
+.hr1{
+    margin: 50px 0 0 0;
+    border: 2px solid gray;
+}
+/* Dream Section */
+
+.dream-content {
+background-image: url(image/dream-bg.png);	
+background-repeat: no-repeat;
+background-position: right;
+background-size: 35px;
+}
+img {
+    width: 100%;
+    height: auto;
+    margin-bottom: -40px;
+}
+.dream-content h1{
+    font-size: 40px;
+    margin-top: 69px;
+}
+.dream-content p{
+    font-size: 20px;
+}
